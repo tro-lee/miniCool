@@ -1,0 +1,1 @@
+(()=>{"use strict";!function(){const e=document.querySelector(".hi");e&&(e.innerHTML="HIHIHI")}(),console.log("hihi")})();

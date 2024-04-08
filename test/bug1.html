@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>test</title>
+  </head>
+
+  <body>
+    <style>
+      .text {
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+    </style>
+    <div class="text">Some text.</div>
+    <script>
+      var adiv = document.querySelector(".text");
+      let leftpos = 0;
+
+      function movediv(timestamp) {
+        leftpos += 10;
+        leftpos %= window.screen.width;
+        adiv.style.left = leftpos + "px";
+        requestAnimationFrame(movediv);
+      }
+
+      requestAnimationFrame(movediv);
+    </script>
+  </body>
+</html>
