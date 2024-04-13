@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-13T07:15:57.663Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="oLeRacqvYBRxWY95w2I8" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-13T07:45:00.156Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="fu1Clu0FPWHr_L6rxEN-" version="24.2.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="3807" dy="2695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2993" dy="2628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,9 +88,6 @@
         <mxCell id="EMNtuVY9JyOEjKlSQYAT-76" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="EMNtuVY9JyOEjKlSQYAT-71" target="EMNtuVY9JyOEjKlSQYAT-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EMNtuVY9JyOEjKlSQYAT-112" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="EMNtuVY9JyOEjKlSQYAT-71" target="EMNtuVY9JyOEjKlSQYAT-111">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="EMNtuVY9JyOEjKlSQYAT-116" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="EMNtuVY9JyOEjKlSQYAT-71" target="EMNtuVY9JyOEjKlSQYAT-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -142,16 +139,16 @@
           <mxGeometry x="-580" y="-1180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EMNtuVY9JyOEjKlSQYAT-82" value="起飞机场" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-660" y="-1100" width="80" height="80" as="geometry" />
+          <mxGeometry x="-280" y="-1090" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EMNtuVY9JyOEjKlSQYAT-84" value="目的机场" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-660" y="-1010" width="80" height="80" as="geometry" />
+          <mxGeometry x="-670" y="-1110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EMNtuVY9JyOEjKlSQYAT-86" value="实际时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="-1180" width="80" height="80" as="geometry" />
+          <mxGeometry x="-340" y="-1170" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EMNtuVY9JyOEjKlSQYAT-90" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-465" y="-1180" width="80" height="80" as="geometry" />
+          <mxGeometry x="-465" y="-1210" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EMNtuVY9JyOEjKlSQYAT-164" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="EMNtuVY9JyOEjKlSQYAT-100" target="EMNtuVY9JyOEjKlSQYAT-163">
           <mxGeometry relative="1" as="geometry" />
@@ -166,7 +163,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EMNtuVY9JyOEjKlSQYAT-101" value="登记口" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-465" y="-635" width="80" height="80" as="geometry" />
+          <mxGeometry x="-340" y="-880" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EMNtuVY9JyOEjKlSQYAT-133" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="EMNtuVY9JyOEjKlSQYAT-109" target="EMNtuVY9JyOEjKlSQYAT-100">
           <mxGeometry relative="1" as="geometry" />
@@ -174,14 +171,11 @@
         <mxCell id="EMNtuVY9JyOEjKlSQYAT-109" value="参考" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-200" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EMNtuVY9JyOEjKlSQYAT-111" value="编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-285" y="-870" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="EMNtuVY9JyOEjKlSQYAT-115" value="座位号" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-605" y="-870" width="80" height="80" as="geometry" />
+          <mxGeometry x="-590" y="-870" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EMNtuVY9JyOEjKlSQYAT-117" value="乘客姓名" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="-790" width="80" height="80" as="geometry" />
+          <mxGeometry x="-590" y="-760" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EMNtuVY9JyOEjKlSQYAT-134" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="EMNtuVY9JyOEjKlSQYAT-121" target="EMNtuVY9JyOEjKlSQYAT-51">
           <mxGeometry relative="1" as="geometry" />
@@ -190,7 +184,7 @@
           <mxGeometry x="-200" y="-190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EMNtuVY9JyOEjKlSQYAT-124" value="乘客身份证号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="-790" width="80" height="80" as="geometry" />
+          <mxGeometry x="-340" y="-760" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EMNtuVY9JyOEjKlSQYAT-132" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="EMNtuVY9JyOEjKlSQYAT-126" target="EMNtuVY9JyOEjKlSQYAT-109">
           <mxGeometry relative="1" as="geometry" />
@@ -212,7 +206,7 @@
             <mxPoint x="-5" y="-560" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EMNtuVY9JyOEjKlSQYAT-138" value="生成" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="EMNtuVY9JyOEjKlSQYAT-138" value="获取" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-35" y="-570" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EMNtuVY9JyOEjKlSQYAT-152" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="EMNtuVY9JyOEjKlSQYAT-151" target="EMNtuVY9JyOEjKlSQYAT-126">
@@ -246,7 +240,7 @@
           <mxGeometry x="-750" y="-320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EMNtuVY9JyOEjKlSQYAT-210" value="总共座位" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="-1010" width="80" height="80" as="geometry" />
+          <mxGeometry x="-250" y="-990" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EMNtuVY9JyOEjKlSQYAT-217" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="EMNtuVY9JyOEjKlSQYAT-216" target="EMNtuVY9JyOEjKlSQYAT-71">
           <mxGeometry relative="1" as="geometry" />
